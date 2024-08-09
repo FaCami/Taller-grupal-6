@@ -1,6 +1,7 @@
 body {
     background-color: rgb(255, 255, 165);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
 }
 
 .image{
@@ -8,6 +9,10 @@ body {
     border: 5px solid rgb(93, 94, 93);
     border-radius: 10px;
     height: 400px;
+}
+
+h1{
+    text-align: center;
 }
 
 .link-button {
